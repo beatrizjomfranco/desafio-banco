@@ -1,7 +1,6 @@
 # Québec Java Digital Bootcamp
 ## Digital Bank Challenge
 ### Module 3: mastering the java programming language
-#### This code is a guided solution given by DIO specialist and was written using VSCode.
 
 This folder contains six files:
         Main. java
@@ -11,4 +10,6 @@ This folder contains six files:
         CheckingAccount.java
         SavingsAccount.java
         and README.md
+
+#### This code is a guided solution given by DIO specialist and was written using VSCode.
 
