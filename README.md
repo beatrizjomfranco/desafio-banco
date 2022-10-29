@@ -1,7 +1,7 @@
 # Québec Java Digital Bootcamp
 ## Digital Bank Challenge
 ### Module 3: mastering the java programming language
-#### This code is a guided solution given by the specialist of DIO, and was written using VSCode IDE
+#### This code is a guided solution given by DIO specialist and was written using VSCode.
 
 This folder contains six files:
         Main. java
